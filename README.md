@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+AYUSH+PRAJAPATI;Nice+to+meet+you!&center=true&size=30">
   </a>
-  <h3 align="center">A passionate frontend developer</h3>
+  <h3 align="center">A passionate app developer</h3>
 </h1>
 
 - 🔭 I’m currently working on **Web Development skills**
