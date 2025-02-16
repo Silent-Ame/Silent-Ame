@@ -5,9 +5,9 @@
   <h3 align="center">A passionate app developer</h3>
 </h1>
 
-- 🔭 I’m currently working on **Web Development skills**
+- 🔭 Currently working on **Web Development skills**
 
-- 🌱 I’m currently learning **react.js, rest api, jetpack compose**
+- 🌱 Learning **react.js, rest api, jetpack compose**
 
 - 💬 Ask me about **App Development**
 
